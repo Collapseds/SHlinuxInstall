@@ -1,7 +1,7 @@
 #!/bin/sh
-sudo dnf install g++
-sudo dnf install zsh
-sudo dnf install git
+sudo brew install g++
+sudo brew install zsh
+sudo brew install git
 #
 # This script should be run via curl:
 # sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
